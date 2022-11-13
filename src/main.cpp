@@ -1,9 +1,9 @@
 #include <Arduino.h> // <<<<< DON'T DELETE THIS!!!
 
 
-/*
-  sends bruh from NAME
-*/
+
+//  prints a slew of bruhs to the serial monitor
+
 
 
 void setup() {
